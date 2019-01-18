@@ -1,0 +1,8 @@
+/* Overriding bootstrap styles */
+h1 {
+    color: red;
+}
+
+#navbarheader {
+    color: yellow;
+}
