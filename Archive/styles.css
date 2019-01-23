@@ -1,0 +1,47 @@
+body {
+    background-image: url("background.jpg");
+    background-attachment: fixed;
+}
+
+/* H1 is the selector */
+h1 {
+    color: purple;
+    font-size: 60px;
+    text-align: center;
+}
+
+h2 {
+    color: rgba(40, 65, 150, 0.479);
+    font-size: 30px;
+}
+
+h3 {
+    color: rgba(30, 138, 138, 0.5);
+    font-size: 30px;
+}
+
+/* This references ID */
+#corgi {
+    height: 200px;
+}
+
+/* These reference class */
+.destination {
+    height: 150px;
+}
+
+.section1 {
+    color: darkslateblue;
+    font-size: 20px;
+}
+
+.section2 {
+    color: lightsalmon;
+    font-size: 25px;
+}
+
+.footer {
+    color: lightgoldenrodyellow;
+    font-size: 10px;
+    text-align: center;
+}
